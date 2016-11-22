@@ -1,5 +1,6 @@
 # sentiment-analysis
 Steps to understand sentiment polarization in user generated content (Text, Message, Blog, Comment, Review, and etc)
+An attempt to document my Master's thesis at Ajou University, Suwon, South Korea.
 
 ### Setup Alteryx and R
 - Alteryx Web link: http://www.alteryx.com/download
